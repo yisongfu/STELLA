@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### **Raw Data**
 
-We provide two national datasets: **ChinaWind** and **ChinaTemp** as demos. You can download other datasets at [[Google Drive]](https://drive.google.com/file/d/10CrgTWHIbL4tFs5iCgZvs0DrcyB8JLuJ/view?usp=sharing).
+We provide two national datasets: **ChinaWind** and **ChinaTemp** as demos. You can download other datasets at [[Google Drive]](https://drive.google.com/file/d/1OS0xqDEZRsx9o3paEWCZXSIaUYKFLANN/view?usp=sharing).
 
 The `datasets` directory contains the raw data and positional information of the datasets:
 
